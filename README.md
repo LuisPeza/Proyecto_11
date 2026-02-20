@@ -62,6 +62,6 @@ Para evitar el problema de comparaciones múltiples y el aumento de falsos posit
 ---
 
 ## 🔗 Entregables
-* [📂 Ver Análisis de Eventos Completo (Jupyter Notebook)](https://github.com/LuisPeza/Proyecto_11/blob/main/Proyecto_11_Modulo_2 productos alimenticios.ipynb) 
+* [📂 Ver Análisis de Eventos Completo (Jupyter Notebook)](https://github.com/LuisPeza/Proyecto_11/blob/main/Proyecto_11/Proyecto_11_Modulo_2  productos alimenticios.ipynb) 
 
 
